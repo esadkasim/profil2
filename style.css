@@ -156,7 +156,10 @@ section {
     font-weight: 700;
     margin: 10px;
 }
-
+.info a{
+    text-decoration: none; 
+    color: inherit; 
+}
 .projects {
     background-color:#32441b;
 }
